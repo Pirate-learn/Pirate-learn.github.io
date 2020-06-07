@@ -1,0 +1,18 @@
+@font-face{font-family: "Oswald";
+src: url(fonts/Oswald/Oswald-Regular.ttf);
+font-weight: 500;}
+@font-face{font-family: "Oswald-light";
+src: url(fonts/Oswald/Oswald-ExtraLight.ttf);
+font-weight: 200;}
+h1{ 
+    color: blue;
+    font-family: "Oswald";
+}
+
+h2{color: rgb(76, 173, 11);}
+
+p{ 
+    color: rgba(249, 253, 4, 0.945); 
+    font-size: 24px;
+font-family: "Oswald-light";
+}
